@@ -1,0 +1,39 @@
+List out the features of HTML5.
+
+->HTML5, the fifth version of the Hypertext Markup Language, introduced several new features and improvements over its predecessor, HTML4. Some of the key features of HTML5 include:
+
+Semantic Elements:- HTML5 introduced new semantic elements like <header>, <nav>, <footer>, <article>, <section>, and more, which help define the structure and meaning of content on a webpage.
+
+Audio and Video Support:- HTML5 includes native support for embedding audio and video content using the <audio> and <video> elements, eliminating the need for third-party plugins like Flash.
+
+Canvas:- The <canvas> element allows for dynamic, scriptable rendering of 2D graphics, making it easier to create interactive graphics and animations on webpages.
+
+SVG Support:- HTML5 includes native support for Scalable Vector Graphics (SVG), enabling the creation of resolution-independent vector graphics within webpages.
+
+Geolocation API:- HTML5 provides a Geolocation API that allows websites to request and access the user's geographical location, enabling location-based services.
+
+Local Storage:- The localStorage and sessionStorage APIs provide a way to store data locally on the user's device, making it easier to create offline web applications and improve performance.
+
+Web Storage:- HTML5 introduced the localStorage and sessionStorage APIs, which provide a way to store key-value pairs in the browser, improving data management and persistence.
+
+Web Workers:- Web Workers allow for multi-threading in JavaScript, enabling background processing to improve the responsiveness of web applications.
+
+WebSockets:- HTML5 introduced the WebSocket API, which enables full-duplex communication channels over a single TCP connection, facilitating real-time communication between a web server and a client.
+
+Form Enhancements:- HTML5 introduced new input types such as email, url, date, and number, as well as attributes like placeholder and required to improve form handling and validation.
+
+Drag-and-Drop:- HTML5 provides native support for drag-and-drop interactions, making it easier to create user-friendly interfaces for tasks like file uploading.
+
+Responsive Images:- The srcset and sizes attributes allow web developers to provide multiple image resources for different screen sizes and resolutions, helping to improve the loading speed and quality of images.
+
+New APIs:- HTML5 introduced various JavaScript APIs, such as the History API, Web Storage API, Web Notifications API, and more, to enable advanced web application functionality.
+
+Offline Application Cache:- HTML5 introduced the Application Cache (AppCache) API, which allows web applications to work offline by caching resources and assets.
+
+Cross-document Messaging:- HTML5 provides a secure way for documents from different origins to communicate with the postMessage API, enabling cross-origin communication.
+
+Improved Accessibility:- HTML5 includes features like ARIA landmarks and roles, which improve the accessibility of web content for people with disabilities.
+
+Improved Parsing Rules:- HTML5 has more consistent parsing rules, making it easier for browsers to handle malformed markup gracefully.
+
+
